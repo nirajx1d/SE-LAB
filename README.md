@@ -8,6 +8,12 @@ http://www.java2s.com/Code/Jar/j/Downloadjunitjar.htm
 https://www.seleniumhq.org/download/
 
 <a href="https://bit.ly/2TlkRyu">Direct link</a>
+
+#### Command
+````
+java -jar selenium-server-standalone-3.141.59.jar
+````
+
 ### selenium-java-2.40.0.zip file on SeleniumHQ missing classes
 <a href="https://github.com/seleniumhq/selenium-google-code-issue-archive/issues/7116">Github link</a>
 
